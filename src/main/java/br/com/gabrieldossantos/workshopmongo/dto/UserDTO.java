@@ -1,4 +1,4 @@
-package br.com.gabrieldossantos.dto;
+package br.com.gabrieldossantos.workshopmongo.dto;
 
 import java.io.Serializable;
 
